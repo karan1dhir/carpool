@@ -1,0 +1,7 @@
+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿‘µ8ÅØ¾ ß+
+esquid:S1854"DRemove this useless assignment to local variable "responseListener".(õºóÚúÿÿÿÿ8¶ÕÛ—Ú+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ıÚÑ¥8àÁ ß+
+Osquid:S1172".Remove this unused method parameter "context".(ö„§”ûÿÿÿÿ8ÅØ¾ ß+
+Vsquid:S1481"5Remove this unused "responseListener" local variable.(õºóÚúÿÿÿÿ8ÅØ¾ ß+
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Â¥úÑ8ÅØ¾ ß+

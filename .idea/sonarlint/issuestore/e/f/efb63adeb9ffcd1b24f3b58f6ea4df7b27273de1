@@ -1,0 +1,20 @@
+
+isquid:UselessImportCheck";Remove this unused import 'android.graphics.BitmapFactory'.(âàºÍûÿÿÿÿ8ºç† ß+
+osquid:UselessImportCheck"ARemove this unused import 'com.shopclues.location.LocationUtils'.(æåìÿÿÿÿÿ8ºç† ß+
+Msquid:S1481"1Remove this unused "cameraUpdate" local variable.(Î¡ˆÒ8ºç† ß+
+–squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Â¥úÑ
+Msquid:S1854"9Remove this useless assignment to local variable "rList".(áæÊN
+usquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "url".(«¼ˆğúÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¢£óÿÿÿÿÿ
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(úÔÄöüÿÿÿÿ8“†Ò¥à+
+[squid:S1118":Add a private constructor to hide the implicit public one.(Á­¸ÿÿÿÿÿ8ˆ‚¸ ß+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…å·êÿÿÿÿÿ8ÛÛ¥à+
+]squid:UselessImportCheck"4Remove this unused import 'com.shopclues.carpool.R'.(Çµˆ¸8ºç† ß+
+Hsquid:S1481"-Remove this unused "polyline" local variable.(‘Şß8İšâÚ+
+gsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ã„Å
+\squid:UselessImportCheck"4Remove this unused import 'android.graphics.Bitmap'.(¾ì8ºç† ß+
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ä°ÎØùÿÿÿÿ
+Rsquid:S1481"1Remove this unused "cameraUpdate" local variable.(ËÚ™ şÿÿÿÿ8ÜûŸ©ß+
+asquid:S1854"@Remove this useless assignment to local variable "cameraUpdate".(ËÚ™ şÿÿÿÿ8ÜûŸ©ß+
+\squid:S1854"@Remove this useless assignment to local variable "cameraUpdate".(Î¡ˆÒ8ºç† ß+
+`squid:UnusedPrivateMethod"6Remove this unused private "addMultipleMarker" method.(Ç©¸ 8Àˆš©ß+

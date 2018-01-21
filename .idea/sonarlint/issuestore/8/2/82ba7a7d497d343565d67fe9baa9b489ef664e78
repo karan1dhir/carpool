@@ -1,0 +1,24 @@
+
+]squid:S1854"CRemove this useless assignment to local variable "jWaypoint_order".(®éÒÄıÿÿÿÿ
+Msquid:UselessParenthesesCheck"!Remove those useless parentheses.(ÿÊäşÿÿÿÿ
+8squid:S1659"#Declare "shift" on a separate line.(òòÌß
+Lsquid:S1481"2Remove this unused "waypont_order" local variable.(Ğ«ôıùÿÿÿÿ
+Msquid:UselessParenthesesCheck"!Remove those useless parentheses.(óßÚÔúÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª÷ôšÿÿÿÿÿ
+qsquid:S00117"VRename this local variable name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ«ôıùÿÿÿÿ
+9squid:S1659"$Declare "result" on a separate line.(òòÌß
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(÷¿Á·ÿÿÿÿÿ
+:squid:S1166"%Either log or rethrow this exception.(”ı¾
+Qsquid:S1854"<Remove this useless assignment to local variable "polyline".(ÆÙéè
+?squid:S1166"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ
+Msquid:UselessParenthesesCheck"!Remove those useless parentheses.(—¶šÈşÿÿÿÿ
+?squid:S00108")Either remove or fill this block of code.(”ı¾
+;squid:S1659"!Declare "lng" on a separate line.(²Û¥úÿÿÿÿ
+[squid:S1854"ARemove this useless assignment to local variable "waypont_order".(Ğ«ôıùÿÿÿÿ
+Nsquid:S1481"4Remove this unused "jWaypoint_order" local variable.(ª÷ôšÿÿÿÿÿ
+Msquid:UselessParenthesesCheck"!Remove those useless parentheses.(óßÚÔúÿÿÿÿ
+Hsquid:UselessParenthesesCheck"!Remove those useless parentheses.(şÁøş
+Hsquid:UselessParenthesesCheck"!Remove those useless parentheses.(şÁøş
+6squid:S1659"!Declare "len" on a separate line.(ğŞ…¡
+b
+squid:S134"NRefactor this code to not nest more than 3 if/for/while/switch/try statements.(½§ä”

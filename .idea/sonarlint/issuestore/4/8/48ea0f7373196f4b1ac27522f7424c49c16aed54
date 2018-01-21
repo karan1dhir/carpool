@@ -1,0 +1,16 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ä¡–÷øÿÿÿÿ8ÂŠä¥ß+
+Œsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(è­öØ8ÂŠä¥ß+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(öÿå¸8ÂŠä¥ß+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÂŠä¥ß+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğı˜ÿúÿÿÿÿ8ÂŠä¥ß+
+gsquid:S2184"FCast one of the operands of this multiplication operation to a "long".(šçº§ûÿÿÿÿ8ÂŠä¥ß+
+osquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(íÁóã8ÂŠä¥ß+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦·‡ã8ÂŠä¥ß+
+Msquid:S1153"1Directly append the argument of String.valueOf().(àŒßÂ8˜ÍŠ¦ß+
+Msquid:S1153"1Directly append the argument of String.valueOf().(àŒßÂ8˜ÍŠ¦ß+
+Asquid:S1166"%Either log or rethrow this exception.(”ı¾8ÂŠä¥ß+
+Asquid:S2129" Remove this "String" constructor(¢…ïàùÿÿÿÿ8ÂŠä¥ß+
+Ksquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ÂŠä¥ß+
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(¦Áøÿÿÿÿ8ÂŠä¥ß+
+bsquid:S2184"FCast one of the operands of this multiplication operation to a "long".(·¦Œí8ÂŠä¥ß+

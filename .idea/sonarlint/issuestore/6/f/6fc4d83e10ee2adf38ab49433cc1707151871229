@@ -1,0 +1,9 @@
+
+jsquid:UselessImportCheck"CRemove this unused import 'android.support.annotation.RequiresApi'.(ÄÂòøÿÿÿÿ
+Vsquid:UnusedPrivateMethod"3Remove this unused private "formatLocation" method.(íó‘Ş
+\squid:UselessImportCheck"5Remove this unused import 'android.content.ClipData'.(°ú‚üÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã¨óÊ
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(‹Æ°ø8ªıÌ ß+
+dsquid:UselessImportCheck"=Remove this unused import 'android.content.ClipboardManager'.(ŠİÒ¬ùÿÿÿÿ
+Msquid:S1172"3Remove this unused method parameter "lastLocation".(ú¸¼˜ıÿÿÿÿ
+Tsquid:UselessImportCheck"-Remove this unused import 'android.os.Build'.(ãÇ¤Úıÿÿÿÿ

@@ -1,0 +1,6 @@
+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(¼Øûì8Ýé† ß+
+Ssquid:S2589"7Remove this expression which always evaluates to "true"(Ò¼ŠÈ8™æ©ç+
+wsquid:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Ò¼ŠÈ8™æ©ç+
+Xsquid:S2589"7Remove this expression which always evaluates to "true"(ÎˆÝæùÿÿÿÿ8™æ©ç+
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÎˆÝæùÿÿÿÿ8Ýé† ß+

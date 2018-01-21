@@ -1,0 +1,8 @@
+
+"squid:ClassVariableVisibilityCheck"UMake sourceLat a static final constant or non-public and provide accessors if needed.(ª£»®
+‚"squid:ClassVariableVisibilityCheck"VMake sourceLong a static final constant or non-public and provide accessors if needed.(ÄÊ©
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ôà¦”şÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"SMake destLat a static final constant or non-public and provide accessors if needed.(ãÆ›
+…"squid:ClassVariableVisibilityCheck"TMake destLong a static final constant or non-public and provide accessors if needed.(ƒ„Óıÿÿÿÿ
+Lsquid:S1213"8Move this variable to comply with Java Code Conventions.(¨åJ
+ssquid:UselessImportCheck"ERemove this unused import 'com.google.android.gms.maps.model.LatLng'.(Ï˜Éıüÿÿÿÿ8Œß† ß+
